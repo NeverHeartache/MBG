@@ -1,0 +1,2 @@
+# MBG
+Mybatis-Generator
